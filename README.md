@@ -3,7 +3,7 @@
   Desenvolvedor Full Stack | Java + Angular | DevOps Enthusiast
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46DA04&width=435&lines=Todo+projeto+come%C3%A7a+com+uma+boa+;linha+de+c%C3%B3digo!+Aqui+est%C3%A3o+os+meus.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46DA04&width=435&lines=Todo+projeto+come%C3%A7a+com+uma+boa+linha+de+c%C3%B3digo!+Aqui+est%C3%A3o+os+meus.)](https://git.io/typing-svg)
 
 
 
