@@ -12,8 +12,6 @@
 
 Sou desenvolvedor com experiência em **Angular + Java (Spring Boot)** e paixão por DevOps, microsserviços e arquitetura escalável. Tenho atuado em squads ágeis com foco em modernização de sistemas, automação de métricas e boas práticas como **Clean Code**, **SOLID** e **CI/CD**.
 
-Atualmente, atuo no Santander (F1rst), participando de projetos estratégicos com foco em performance, integração de métricas e estabilidade de aplicações corporativas.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
