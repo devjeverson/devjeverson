@@ -19,13 +19,13 @@ Atualmente, atuo no Santander (F1rst), participando de projetos estratégicos co
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 🧠 Linguagens e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,dotnet,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,angular,java,spring,dotnet,py,nodejs)](https://skillicons.dev)
 
 ### 🧰 DevOps e Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,azure,kubernetes)](https://skillicons.dev)
 
 ### 📊 Ferramentas e Metodologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,intellij,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,gitlab,jenkins,git,postman)](https://skillicons.dev)
 
 ---
 
@@ -40,7 +40,5 @@ Universidade Anhembi Morumbi (conclusão: Jul/2025)
 
 ---
 
-
----
 
 
