@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 Jéverson da Silva Oliveira</h1>
 <p align="center">
-  Desenvolvedor Full Stack | Java + Angular | DevOps Enthusiast
+  Desenvolvedor | Java + Angular | DevOps Enthusiast
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46DA04&width=435&lines=Todo+projeto+come%C3%A7a+com+um+bom+caf%C3%A9!)](https://git.io/typing-svg)
+
 
 
 ---
