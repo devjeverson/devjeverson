@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Jéverson da Silva Oliveira</h1>
 <p align="center">
-  Desenvolvedor | Java + Angular | DevOps Enthusiast
+  Desenvolvedor de Sistemas | MBA em Engenheiro de Software 
 </p>
 
 
